@@ -1,0 +1,115 @@
+canonical_identifier: bkk:krp/KR3f0039/v1
+canonical_location: https://kanripo.org/bkk/KR3f0039/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 張邱建算經
+  identifiers:
+    krp: KR3f0039
+  tags:
+    kr-categories: KR3f
+  source:
+    repository: tls-texts
+    path: data/tls/KR3f0039.xml
+  edition:
+    short: bkk
+editions:
+- short: krp
+- short: WYG
+assets:
+  parts:
+  - {seq: 0, filename: KR3f0039_000.yaml, hash: 'sha256:9cb02b4dcc7254fcd304c305838c1a4cb611f6e35b427238bfe392f8539a5029'}
+  - {seq: 1, filename: KR3f0039_001.yaml, hash: 'sha256:12f87b90ab3869f5982bee99b08a55a40e554d503f3d63b6cc9a9f29d99bc96e'}
+  - {seq: 2, filename: KR3f0039_002.yaml, hash: 'sha256:dbb1fe3d819fef53f3af06ac7267617f33915c3c7c93e2f735efd682c798cd86'}
+  - {seq: 3, filename: KR3f0039_003.yaml, hash: 'sha256:5d26064bdd8558bf7a278b56fc429c575652a00dac4cd2c70f59c4f4f979dde3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3f0039_000.markers.yaml, hash: 'sha256:eb2671f8e8c41b5aa0d3133e12f565a9ce414f66aa1c092e69f464144810825b'}
+  - {seq: 1, role: markers, filename: assets/KR3f0039_001.markers.yaml, hash: 'sha256:9710b8a328108aea7e5d1415146fb0184aac7ab68ec45de4b6a391a03b7e3895'}
+  - {seq: 2, role: markers, filename: assets/KR3f0039_002.markers.yaml, hash: 'sha256:ea869876dbf7e79156f930513f22df446fdbda78fa3ccdc78e6a67f66bdecbd0'}
+  - {seq: 3, role: markers, filename: assets/KR3f0039_003.markers.yaml, hash: 'sha256:d5b102ee040d86b83c03ee2c546d953d89f6baad4a1fb3c138cb6e080f357512'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3f0039_WYG_000-d12head.s1
+    span:
+    - front
+    - 0
+    - 69
+  label: 張邱建算經序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3f0039_WYG_000-d11head.s3
+    span:
+    - body
+    - 0
+    - 526
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 526
+    - 679
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 679
+    - 679
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: ''
+    span:
+    - body
+    - 679
+    - 679
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3f0039_WYG_001-fw.s2
+    span:
+    - body
+    - 0
+    - 6622
+  label: 張邱建算經卷上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 5167
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 9510
+  label: ''
+  type: section
+  level: 1
+hash: sha256:e2a09459001dded69026ac227d53bd270c1b995e254005245457dacc9cb0d30b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
