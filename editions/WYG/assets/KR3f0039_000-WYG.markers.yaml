@@ -33,6 +33,7 @@ markers:
   - {type: 'tls:seg', offset: 2, content: '', id: KR3f0039_WYG_000-d11p1.s4}
   - {type: line-break, offset: 2, content: '', id: KR3f0039_WYG_000-bkklb2}
   - {type: punctuation, offset: 2, content: (, id: KR3f0039_WYG_000-bkkpn1}
+  - {type: voice, offset: 2, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 3, content: ), id: KR3f0039_WYG_000-bkkpn2}
   - {type: 'tls:seg', offset: 19, content: '', id: KR3f0039_WYG_000-d11p1.s5}
   - {type: line-break, offset: 19, content: '', id: KR3f0039_WYG_000-bkklb3}
@@ -101,14 +102,18 @@ markers:
   - {type: 'tls:seg', offset: 505, content: '', id: KR3f0039_WYG_000-d11p2.s34}
   - {type: line-break, offset: 505, content: '', id: KR3f0039_WYG_000-bkklb32}
   - {type: punctuation, offset: 508, content: (, id: KR3f0039_WYG_000-bkkpn3}
+  - {type: voice, offset: 508, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 509, content: ), id: KR3f0039_WYG_000-bkkpn4}
   - {type: punctuation, offset: 511, content: (, id: KR3f0039_WYG_000-bkkpn5}
+  - {type: voice, offset: 511, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 512, content: ), id: KR3f0039_WYG_000-bkkpn6}
   - {type: punctuation, offset: 515, content: (, id: KR3f0039_WYG_000-bkkpn7}
+  - {type: voice, offset: 515, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 516, content: ), id: KR3f0039_WYG_000-bkkpn8}
   - {type: 'tls:seg', offset: 519, content: '', id: KR3f0039_WYG_000-d11p2.s35}
   - {type: line-break, offset: 519, content: '', id: KR3f0039_WYG_000-bkklb33}
   - {type: punctuation, offset: 522, content: (, id: KR3f0039_WYG_000-bkkpn9}
+  - {type: voice, offset: 522, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 523, content: ), id: KR3f0039_WYG_000-bkkpn10}
   - {type: page-break, offset: 526, content: '', id: KR3f0039_WYG_000-4a}
   - {type: xml-element, offset: 526, content: '', id: KR3f0039_WYG_000-d11p2_end, name: p, role: close, attrs: {type: maybe-not-p, 'xml:id': KR3f0039_WYG_000-d11p2}}
@@ -190,4 +195,4 @@ markers:
   - {type: xml-element, offset: 679, content: '', id: KR3f0039_WYG_000-d15p1, name: p, role: open, attrs: {'xml:id': KR3f0039_WYG_000-d15p1}}
   - {type: xml-element, offset: 679, content: '', id: KR3f0039_WYG_000-d15p1_end, name: p, role: close, attrs: {'xml:id': KR3f0039_WYG_000-d15p1}}
   back: []
-hash: sha256:d350a2c6fb34597604253a76677ca055e6485b859b42041dbe5b6def221dbad8
+hash: sha256:936630a6b10396852db1e3b57a3ff495ef807891ee347d7fde57941aaf8abf9a
